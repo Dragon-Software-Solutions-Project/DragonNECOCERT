@@ -30,4 +30,4 @@ Due to the sensitive nature of the documents handled, this software is intended 
 **Disclaimer**
 This repository is provided for distribution and installation purposes only. Dragon Software Solutions does not guarantee functionality outside of supported and licensed environments.
 
-Use of this software is subject to the terms outlined in the applicable licensing agreement. Any misuse or unauthorised activity may result in licence termination and potential legal action.
+Use of this software is subject to the terms outlined in the applicable End User licensing agreement. Any misuse or unauthorised activity may result in licence termination and potential legal action.
