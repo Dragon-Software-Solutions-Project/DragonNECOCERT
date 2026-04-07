@@ -1,24 +1,33 @@
 # DragonNECOCERT
 
 **Overview**
-This repository contains the source code for a desktop software application developed and owned by Dragon Software Solutions. The software is designed to support secure document processing and variable data printing operations for authorised printing press partners.
+This repository contains the compiled installer for a desktop application developed and owned by Dragon. The application is designed to support secure document processing and variable data printing for authorised organisations operating within controlled printing environments.
 
-The primary use case of this application is to facilitate the printing of sensitive and high-integrity documents, including certificates issued by the National Examinations Council (NECO). The software enables controlled handling of variable data, ensuring accuracy, consistency, and compliance with security requirements expected in official document production.
+The software is primarily used to facilitate the production of sensitive and high-integrity documents, including certificates issued by the National Examinations Council (NECO), and supports additional document handling capabilities such as PDF extraction and structured data processing.
 
-**Licensing and Usage**
-All intellectual property rights in this software, including the source code, architecture, and associated components, are the exclusive property of Dragon Software Solutions.
+**Distribution Model**
+This repository provides access to the compiled application only. No source code is included.
 
-This software is not open-source and is made available strictly under licence to approved and authorised printing press organisations that engage Dragon Software Solutions’s services. Any use, reproduction, modification, distribution, or disclosure of this code outside the terms of an explicit licensing agreement with Dragon Software Solutions is strictly prohibited.
+The application installs as a desktop tool and requires an active internet connection to complete its licensing and activation process. Upon installation, the software connects securely to Dragon Software Solutions’s licensing servers to validate usage rights before enabling full functionality.
+
+**Licensing and Access**
+The software is proprietary and is made available strictly under licence to authorised organisations.
+- A valid licence issued by Dragon Software Solutions is required to activate and use the application
+- Unauthorised use, redistribution, reverse engineering, or tampering with the software or its licensing mechanism is strictly prohibited
+- Access to this repository does not grant any ownership rights or permission to use the software beyond what is defined in a formal licensing agreement
 
 **Functionality**
-The application provides capabilities including, but not limited to:
-Variable data printing for secure and official documents
-Processing and formatting of certificate data (e.g., NECO certificates)
-PDF extraction and data handling utilities
-Integration support for printing workflows within authorised environments
-Compliance and Security
+The application includes features such as:
+- Variable data printing for secure and official documents
+- Certificate data processing (e.g., NECO certificates)
+- PDF extraction and transformation tools
+- Integration with secure printing workflows
+- Online licence validation and activation
 
-Given the sensitive nature of the documents processed, this software is intended to be deployed and operated only within secure, controlled environments by authorised personnel. Users and licensees are expected to adhere to all applicable data protection, confidentiality, and regulatory requirements relevant to their jurisdiction and operational context.
+**Security and Intended Use**
+Due to the sensitive nature of the documents handled, this software is intended for deployment only within secure and authorised environments. Users are responsible for ensuring compliance with all applicable data protection, confidentiality, and regulatory requirements.
 
 **Disclaimer**
-This repository is maintained for development and internal operational purposes. Access does not grant any rights to use the software beyond what is expressly permitted under a valid licensing agreement with Dragon.
+This repository is provided for distribution and installation purposes only. Dragon Software Solutions does not guarantee functionality outside of supported and licensed environments.
+
+Use of this software is subject to the terms outlined in the applicable licensing agreement. Any misuse or unauthorised activity may result in licence termination and potential legal action.
